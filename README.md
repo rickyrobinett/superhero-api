@@ -29,3 +29,6 @@ Additional Resources
 * CodeCademy API Track: http://www.codecademy.com/tracks/apis
 * Best Practices for Designing a Pragmatic RESTful API :http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
+Contact
+--------------
+You can find me on twitter (@rickyrobinett) or e-mail (ricky@twilio.com).
